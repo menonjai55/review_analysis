@@ -1,4 +1,4 @@
-# review_analysis
+# Product Review Analysis
 Scraping of publicly available reviews and analysis its sentiment and keywords
 
 ## Step 1- Scraping of public reviews
